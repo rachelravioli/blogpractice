@@ -1,0 +1,86 @@
+body { 
+	background-image: url(https://isorepublic.com/wp-content/uploads/2019/07/iso-republic-abstract-shape-pattern-background-9.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #f5330c;
+
+}
+
+/*I do not own the background image I used in this project. This is just for personal practice. Nothing to seriously publish.*/
+
+h1 {
+font-family: 'MuseoModerno', cursive;
+text-align: center;
+color: #361975;
+text-decoration: underline;
+font-size: 50px;
+margin-bottom: 60px;
+}
+
+h2 {
+	font-family: 'MuseoModerno', cursive;
+	font-weight: 300;
+	color: #361975;
+	font-size: 38px;
+	margin-top: 0;
+
+}
+hr {
+	float: left;
+	border: 1px #ed3800 solid;
+	width: 45px;
+	margin-right: 10px;
+}
+
+h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #ed3800;
+	font-size: 15px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin-bottom: 0;
+
+}
+
+p {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #361975;
+	font-size: 20px;
+}
+
+a {
+	font-family: 'MuseoModerno', cursive;
+	font-weight: 900;
+	color: #dcfce4;
+	padding-right: 20px;
+	text-transform: capitalize;
+}
+
+.blog {
+	/*padding: 20px 30px 40px 20px;*/
+	border-bottom: #dcfce4 1px solid;
+	margin: 40px 60px 80px 40px;
+}
+
+.quote {
+	border-left: #c9fff6 3px solid;
+	padding-left: 15px;
+}
+
+.bodybox {
+background-color: rgba(220, 252, 228, 0.5);
+border: #dcfce4 1px solid;
+margin: 20% 10% 0 10%;
+
+}
+
+.author {
+	text-align: right;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #ed3800;
+	font-size: 15px;
+
+
+}
